@@ -7,3 +7,5 @@
 ## Czwarty wpis na branchu pierwszy_branch_Przemek
 
 ## Wpis na branchu - Marek
+
+## Drugi wpis w branchu Marka
